@@ -1,5 +1,6 @@
 # Visual Servoing with the Stretch 3 Dex Wrist & Gripper
 
+Test test
 
 
 Visual servoing is a powerful way to achieve fast, precise, and robust motions using Stretch 3's D405 gripper camera. This code provides an example of using visual servoing to reach and grasp a target, either a cube with an ArUco marker on it or a tennis ball. It also provides code for estimating the fingertip poses using the finger ArUco markers. 
